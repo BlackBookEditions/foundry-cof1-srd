@@ -1,7 +1,7 @@
 # Chroniques Oubliées Fantasy SRD
 Module Foundry VTT contenant les compendiums du SRD de Chroniques Oubliées Fantasy
 
-<img src="https://github.com/ZigmundKreud/cof-srd/raw/main/ui/logo-banner.webp">
+<img src="https://github.com/BlackBookEditions/foundry-cof1-srd/raw/main/ui/logo-banner.webp">
 
 Ce programme est fait pour être exécuté dans le moteur [Foundry VTT](https://foundryvtt.com/).
 

@@ -1,4 +1,6 @@
 ## 13.348.1
+- Transfert du dépôt chez BBE
+## 13.348.1
 - Correction création de la release
 ## 13.348.0
 - Compatibilité V13.348

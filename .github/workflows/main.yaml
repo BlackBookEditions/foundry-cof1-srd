@@ -35,7 +35,7 @@ name: Create System Files For GitHub Release
 
 env:
   # The URL used for the module's "Project URL" link on FoundryVTT's website.
-  project_url: "https://github.com/ZigmundKreud/cof-srd"
+  project_url: "https://github.com/BlackBookEditions/foundry-cof1-srd"
 
   # A URL that will always point to the latest manifest.
   # FoundryVTT uses this URL to check whether the current module version that
